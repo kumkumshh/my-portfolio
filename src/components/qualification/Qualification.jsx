@@ -24,7 +24,7 @@ function Qualification() {
                 <div className={toggleState === 2 ? "qualification__button qualification__active button--flex" : "qualification__button button--flex" }
                   onClick={() => toggleTab(2)}
                 >
-                    <i className="uil uil-briefcase-alt qualification__icon"> Experience</i>
+                    <i className="uil uil-briefcase-alt qualification__icon"> Internships</i>
                 </div>
             </div>
 
@@ -32,10 +32,10 @@ function Qualification() {
                 <div className={toggleState === 1 ? "qualification__content qualification__content-active " : "qualification__content" }>
                     <div className="qualification__data">
                         <div>
-                           <h3 className="qualification__title">Web Design</h3> 
+                           <h3 className="qualification__title">Btech CSE</h3> 
                            <span className="qualification__subtitle">Gulzar Group of Instituties</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2022 - Present</i>
                            </div>
                         </div>
 
@@ -54,10 +54,10 @@ function Qualification() {
                         </div>
 
                         <div>
-                           <h3 className="qualification__title">Web Development</h3> 
-                           <span className="qualification__subtitle">Gulzar Group of Instituties</span>
+                           <h3 className="qualification__title">Diploma in CSE</h3> 
+                           <span className="qualification__subtitle">R&D Polytechnic College</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2019 - 2022</i>
                            </div>
                         </div>
 
@@ -65,10 +65,10 @@ function Qualification() {
 
                     <div className="qualification__data">
                         <div>
-                           <h3 className="qualification__title">Graphic Designing </h3> 
-                           <span className="qualification__subtitle">Gulzar Group of Instituties</span>
+                           <h3 className="qualification__title">10th </h3> 
+                           <span className="qualification__subtitle">SGD Grammar Sen. Sec. School</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2019</i>
                            </div>
                         </div>
 
@@ -78,7 +78,7 @@ function Qualification() {
                         </div>
                     </div>
 
-                    <div className="qualification__data">
+                    {/* <div className="qualification__data">
                         <div></div>
 
                         <div>
@@ -94,7 +94,7 @@ function Qualification() {
                            </div>
                         </div>
 
-                    </div>
+                    </div> */}
                 </div>
 
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active " : "qualification__content" }>
