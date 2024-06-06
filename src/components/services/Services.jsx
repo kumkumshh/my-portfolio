@@ -29,7 +29,7 @@ const Services = () => {
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
                         <h3 className="services__modal-title">Frontend Designer</h3>
-                        <p className="services__modal-description">Providing quality work to clients and companies.</p>
+                        <p className="services__modal-description">Creating responsive and visually appealing web pages with a focus on user experience and modern design principles.</p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
@@ -64,7 +64,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <i className="uil uil-arrow services__icon"></i>
-                    <h3 className="services__title">Ui/Ux <br/> Designer</h3>                    
+                    <h3 className="services__title">Machine Learning <br/> Developer</h3>                    
                 </div>
 
                 <span onClick={() =>
@@ -76,33 +76,33 @@ const Services = () => {
                     <div className="services__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
-                        <h3 className="services__modal-title">Ui/Ux Designer</h3>
-                        <p className="services__modal-description">Providing quality work to clients and companies.</p>
+                        <h3 className="services__modal-title">Machine Learning Developer</h3>
+                        <p className="services__modal-description">Implementing advanced machine learning algorithms to solve complex problems, from data analysis to predictive modeling and automation.</p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Conducting user research to understand needs.</p>
+                                <p className="services__modal-info">Implement advanced algorithms for automated solutions.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Designing wireframes and prototypes.</p>
+                                <p className="services__modal-info">Conduct data preprocessing and feature engineering.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Creating user flows and interaction designs.</p>
+                                <p className="services__modal-info">Utilize Python libraries like TensorFlow and scikit-learn.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Ensuring accessibility and usability.</p>
+                                <p className="services__modal-info">Develop predictive models to enhance data-driven decisions.</p>
                             </li>
 
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
-                                <p className="services__modal-info">Continuously improving designs based on feedback.</p>
+                                <p className="services__modal-info">Create machine learning pipelines for real-time applications.</p>
                             </li>
                         </ul>
                     </div>
@@ -125,7 +125,7 @@ const Services = () => {
                         <i  onClick={() => toggleTab(0)} className="uil uil-times services__modal-close"></i>
 
                         <h3 className="services__modal-title">Web Designer</h3>
-                        <p className="services__modal-description">Providing quality work to clients and companies.</p>
+                        <p className="services__modal-description">Building and maintaining robust web applications, ensuring seamless functionality, performance, and scalability.</p>
 
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">

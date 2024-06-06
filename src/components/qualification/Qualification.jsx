@@ -100,10 +100,10 @@ function Qualification() {
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active " : "qualification__content" }>
                     <div className="qualification__data">
                         <div>
-                           <h3 className="qualification__title">Web Design</h3> 
-                           <span className="qualification__subtitle">Gulzar Group of Instituties</span>
+                           <h3 className="qualification__title">Java/SQL</h3> 
+                           <span className="qualification__subtitle">Test Yantra Software Solutions India Pvt. Ltd.</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2023</i>
                            </div>
                         </div>
 
@@ -122,10 +122,10 @@ function Qualification() {
                         </div>
 
                         <div>
-                           <h3 className="qualification__title">Web Development</h3> 
-                           <span className="qualification__subtitle">Gulzar Group of Instituties</span>
+                           <h3 className="qualification__title">Cyber Security</h3> 
+                           <span className="qualification__subtitle">TCL-IT</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2023</i>
                            </div>
                         </div>
 
@@ -133,10 +133,10 @@ function Qualification() {
 
                     <div className="qualification__data">
                         <div>
-                           <h3 className="qualification__title">Graphic Designing </h3> 
-                           <span className="qualification__subtitle">Gulzar Group of Instituties</span>
+                           <h3 className="qualification__title">Python with Data Science </h3> 
+                           <span className="qualification__subtitle">Ansh Infotech</span>
                            <div className="qualification__calender">
-                                <i className="uil uil-calendar-alt"> 2021 - Present</i>
+                                <i className="uil uil-calendar-alt"> 2021 </i>
                            </div>
                         </div>
 
