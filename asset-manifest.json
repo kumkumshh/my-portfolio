@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.070a3d62.css",
+    "main.js": "/my-portfolio/static/js/main.29e76830.js",
+    "static/media/work5.png": "/my-portfolio/static/media/work5.820bdcd83cb8ab37ed22.png",
+    "static/media/work2.png": "/my-portfolio/static/media/work2.1bdf40cd2cb9f444943c.png",
+    "static/media/work1.png": "/my-portfolio/static/media/work1.1ced519ecf12382b251f.png",
+    "static/media/kumkum-sharma.pdf": "/my-portfolio/static/media/kumkum-sharma.b73d4b6fcb69eb347799.pdf",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.219b1529c357464b7d9a.jpg",
+    "static/media/about.jpg": "/my-portfolio/static/media/about.c4c08d222a21bbfd2c55.jpg",
+    "static/media/work3.png": "/my-portfolio/static/media/work3.f0b8c37cd91be26524a2.png",
+    "static/media/work4.jpg": "/my-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.070a3d62.css.map": "/my-portfolio/static/css/main.070a3d62.css.map",
+    "main.29e76830.js.map": "/my-portfolio/static/js/main.29e76830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.070a3d62.css",
+    "static/js/main.29e76830.js"
+  ]
+}
