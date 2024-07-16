@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.070a3d62.css",
-    "main.js": "/my-portfolio/static/js/main.b2e22437.js",
-    "static/media/work5.png": "/my-portfolio/static/media/work5.820bdcd83cb8ab37ed22.png",
-    "static/media/work2.png": "/my-portfolio/static/media/work2.1bdf40cd2cb9f444943c.png",
-    "static/media/work1.png": "/my-portfolio/static/media/work1.1ced519ecf12382b251f.png",
+    "main.js": "/my-portfolio/static/js/main.d20a6e88.js",
+    "static/media/work5.png": "/my-portfolio/static/media/work5.1e65ff53ad32c3f01002.png",
+    "static/media/work6.png": "/my-portfolio/static/media/work6.492eef6c6995bdcd0dc8.png",
+    "static/media/work4.png": "/my-portfolio/static/media/work4.507d8601b2f99d136aa4.png",
+    "static/media/work7.png": "/my-portfolio/static/media/work7.83858667e38b3d60f9f6.png",
+    "static/media/work2.png": "/my-portfolio/static/media/work2.06667192ff309cf01e9d.png",
     "static/media/kumkum-sharma.pdf": "/my-portfolio/static/media/kumkum-sharma.b73d4b6fcb69eb347799.pdf",
     "static/media/profile.jpg": "/my-portfolio/static/media/profile.219b1529c357464b7d9a.jpg",
     "static/media/about.jpg": "/my-portfolio/static/media/about.c4c08d222a21bbfd2c55.jpg",
+    "static/media/work1.png": "/my-portfolio/static/media/work1.fdb494031518f35b2736.png",
     "static/media/work3.png": "/my-portfolio/static/media/work3.f0b8c37cd91be26524a2.png",
-    "static/media/work4.jpg": "/my-portfolio/static/media/work4.aee985961b648f4df1f2.jpg",
     "index.html": "/my-portfolio/index.html",
     "main.070a3d62.css.map": "/my-portfolio/static/css/main.070a3d62.css.map",
-    "main.b2e22437.js.map": "/my-portfolio/static/js/main.b2e22437.js.map"
+    "main.d20a6e88.js.map": "/my-portfolio/static/js/main.d20a6e88.js.map"
   },
   "entrypoints": [
     "static/css/main.070a3d62.css",
-    "static/js/main.b2e22437.js"
+    "static/js/main.d20a6e88.js"
   ]
 }
