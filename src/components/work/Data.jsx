@@ -61,7 +61,7 @@ export const projectsData = [
     {
       id: 8,
       image: Work8,
-      title: "Tracker My Expenses",
+      title: "Track My Expenses",
       category: "web",
       url: "https://github.com/kumkumshh/Track-My-Expenses",
     },   
