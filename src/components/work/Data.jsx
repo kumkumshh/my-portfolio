@@ -5,6 +5,7 @@ import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
 import Work6 from "../../assets/work6.png";
 import Work7 from "../../assets/work7.png";
+import Work8 from "../../assets/work8.png";
 
 
 export const projectsData = [
@@ -26,7 +27,7 @@ export const projectsData = [
       id: 3,
       image: Work3,
       title: "Rock Paper Scissor",
-      category: "web",
+      category: "pp",
       url: "https://github.com/kumkumshh/rock-paper-scissors",
     },
     {
@@ -40,8 +41,8 @@ export const projectsData = [
       id: 5,
       image: Work5,
       title: "Static Food Website",
-      category: "web",
-      url: "https://moviefinderrr.streamlit.app/",
+      category: "pp",
+      url: "https://github.com/kumkumshh/static-food-website",
     },
     {
       id: 6,
@@ -56,6 +57,13 @@ export const projectsData = [
       title: "Fine Dine Restro",
       category: "web",
       url: "https://kumkumshh.github.io/fine-dine-restaurant-web/",
+    }, 
+    {
+      id: 8,
+      image: Work8,
+      title: "Tracker My Expenses",
+      category: "web",
+      url: "https://github.com/kumkumshh/Track-My-Expenses",
     },   
   ];
 
@@ -67,9 +75,9 @@ export const projectsData = [
         name: 'web',
     },
     {
-        name: 'Ml',
+        name: 'ML',
     },
     {
-        name: 'design',
+        name: 'PP',
     },
   ];
